@@ -1,0 +1,4 @@
+package paging;
+
+class Article {
+}
